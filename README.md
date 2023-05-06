@@ -7,15 +7,15 @@
 ```js
 import SoftwareDeveloper from 'India';
 class Bio extends SoftwareDeveloper {
-  name     = 'Akash Kumawat';
+  name     = 'Nandha Raghu';
   title    = 'Software Engineer' || 'Full Stack Web Developer';
-  location = 'Rajasthan, India';
+  location = 'Krishnagiri, India';
   availability = "Available to hire!!";
 }
 class Skills extends SoftwareDeveloper {
   frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
   backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
-  ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components', 'Bootstrap'];
+  ui = ['Chakra-Ui', 'Material-Ui', 'Styled-Components'];
 }
 ```
 <br/>
@@ -37,7 +37,6 @@ class Skills extends SoftwareDeveloper {
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />
   <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" />
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styles-components" /> 
 </p>
 
@@ -51,7 +50,6 @@ class Skills extends SoftwareDeveloper {
   <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn" />
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />
